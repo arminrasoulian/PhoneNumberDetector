@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c00b2a52_002D51e2_002D4ac3_002D8e03_002D914424d9548b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ProcessNumbers_GivenValidNumbers_ShouldNotThrowException #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4E782AFC-C67F-434F-A0B6-38ABA049B46A::net8.0::PhoneNumberDetector.PhoneNumberDetectionSystemTests.ProcessNumbers_GivenValidNumbers_ShouldNotThrowException&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c4b8dbc7_002Ddee2_002D491a_002D9534_002D47e9c1ef14fd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProcessNumbers_GivenValidNumbers_ShouldNotThrowException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::4E782AFC-C67F-434F-A0B6-38ABA049B46A::net8.0::UnitTests.PhoneNumberDetectionSystemTests.ProcessNumbers_GivenValidNumbers_ShouldNotThrowException&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
